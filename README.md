@@ -85,7 +85,7 @@ graph TD
      B -->|Verdadeiro| C["3 - Multiplicação direta: return x * y"]
      B -->|Falso| D["4 - Cálculo de n e m"]
      C --> K["11 - Fim da função"]
-     D --> E["5 - Divisão dos números &#40;a, b, c, d&#41;"]
+     D --> E["5 - Divisão dos números (a, b, c, d)"]
      E --> F["6 - Primeira chamada recursiva: ac = karatsuba(a, c)"]
      F --> G["7 - Segunda chamada recursiva: bd = karatsuba(b, d)"]
      G --> H["8 - Terceira chamada recursiva: (a+b)(c+d) = karatsuba(a+b, c+d)"]
