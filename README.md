@@ -217,7 +217,7 @@ A complexidade espacial é determinada pela:
 
 ## Autor
 
-- **Nome**: Arthur Curi
+- **Nome**: Arthur Kramberger
 - **Repositório**: https://github.com/arthurcuri/karatsuba
 - **Disciplina**: Fundamentos de Projeto e Análise de Algoritmos
 - **Data**: Agosto de 2025
